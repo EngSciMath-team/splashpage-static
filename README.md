@@ -1,3 +1,3 @@
 ## Static Webpage for EngSciMath Splash page
 
-Check in admin group for current hosting configurations
+Check in admin channel for current hosting configurations
